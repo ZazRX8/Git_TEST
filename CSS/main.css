@@ -1,3 +1,11 @@
 body {
     background-color: darkblue;
 }
+
+p {
+    color:crimson;
+}
+
+h2 {
+    font-size: 50px;
+}
